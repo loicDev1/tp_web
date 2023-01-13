@@ -1,0 +1,78 @@
+NOM DU PROJET
+     BLOG PERSONNEL DE L'ARTISTE TAYC.
+ NOMS DES ETUDIANTS
+     1. AYO AKOA
+     2. Atangana Bimoga Félix Lorel
+
+ REGLES CSS UTLISES
+     Ligne-height: 
+         Permet d'espacer entre les lignes.
+     Font-size: 
+         Peermet de donner la taille de la police.
+     Paggin-bottom: 
+         Permet de spécifier l'espace entre le contenu d'un élément et sa bordure basse.
+     Text-shadow: 
+         permet d'ajouter les ombres au texte.
+     Z-index:
+          permet de définir le "z-order" d'un élément positionné et de ses éléments enfants.
+     Overflow:
+          permet de déterminer le débordement.
+     List-style:
+          permet de spécifier type du marqueur d'item et la position du texte par rapport au marqueur d'item.
+     Mow-box-shadow:
+          permet d'ajouter un effet d'ombre portée à un élément.
+     Webkit-border: 
+         permet de donner une forme aux bordures d'un élément.
+     Mow-border-radius:
+          spécifier la courbe arrondi des coins d'un élément.
+     Cursor:
+          c'est un pointeur qui permet d'indiquer un lien.
+     Float: 
+         permet de retirer un élémént du flux normal et doit être placé sur le côté droit ou sur le côté gauche de son conteneur.
+     Margin-bottom:
+          permet de définir le type d'affichage utilisé pour le rendu d'un élémént et la position utilisée pour ses éléments fils.
+                
+ SELECTEURS
+     Concernant les sélecteurs, nous listons plus bas les selecteurs utilisés:
+         1- Les sélecteurs simples
+         2- Les sélecteurs et les attributs
+         3- Les sélecteurs et les classes id 
+         4- Les sélecteurs et les pseudo-classes et les pseudo-éléments
+         5- Les combinaisons des sélecteurs
+     Exemples
+         *
+             Permet de sélectionner tout les éléments pour qui on a définit le paggin et le maggin.
+         a:hover
+             sélectionner tout les éléments de "a" appartenant à la pseudo-classe "hover"
+         #main 
+             sélectionner tout les éléments dont l'"id" est "main".
+         ul#nav 
+             sélectionner tous les éléments de "ul" dont l'"id" est "nav"
+         .content_imgage
+            sélectionner tous les éléments dont la classe est "content_image"
+         ul.slideshow
+             sélectionner tous les élements de "ul" dont la classe vaut "slideshow"
+     Mr ici, nous avons pris un exemple par types de sélections utilisés.
+
+ MEDIA QUERY
+     Pour tout les écrans qui ont une taille de 320px nous donnons:
+         Au body
+             Les éléments doivent s'afficher en colone.
+             On met la taille de la police à 13px.
+             La hauteur des lignes à 1.4.
+         Au menu
+             Les eléments s'afficheront en colone.
+             La taille sera réglé en fontion de l'écran.
+
+ PIEDS DE PAGE
+     Au niveau du pied de page nous avons dirigé nous avons dirigé les liens vers toutes nos pages.
+     Un autre lien qui redirige où nous avons télécharger les images.
+     un lien qui redirige vers le page du projet "WORLD WEB"
+
+ AJOUTS
+     Vous constaterez que à l'entête et au pied de page nous avons signé avec le slogan "WORLD WEB", en faite il s'agit d'un projet que detient l'un des étudiants. Qui est de mettre su pied une entreprise de developpeurs.
+     Nous espérons que cette signature ne vous derangera guerre. Merci!!!
+     Tout les 3 boutons "voir plus" redirige chacun vers les lieux où nous avons pris nos informations pour l'élaboraton de notre projet.
+
+ RESUME DU PROJET
+     Notre projet porte sur le Blog de l'artiste TAYC, où nous donnons des informations sur l'artiste en général
